@@ -1,6 +1,5 @@
-# [Bionify - Read Faster!](https://bionify.xyz)
+# [Bionic Reader - Read Faster!](https://bionicreader.netlify.app)
 
-**LEGAL NOTICE:** To the _wonderful_ folks at Bionic Reading®, this is not a pirated version of your Bionic Reading® API, but rather a simple algorithm I developed in conjunction with other open source developers. It does NOT violate your precious Bionic Reading® copyrights.
 
 [![banner](src/icons/marquee.png)](https://chrome.google.com/webstore/detail/bionify-read-faster-with/gomhfpbcjfidhpffhecghfdieincgncc)
 
@@ -8,17 +7,17 @@ A simple chrome extension designed to help you read faster and more efficiently.
 
 Here's an example of Bionified text to demonstrate the speed!
 
-[![read](read.png)](https://bionify.xyz)
+[![read](read.png)](https://bionicreader.netlify.app)
 
 (example text from jiffy reader)
 
-## Download
+<!-- ## Download
 
 Bionify is available on the Chrome web store!
 
-Get it here: https://chrome.google.com/webstore/detail/bionify-read-faster-with/gomhfpbcjfidhpffhecghfdieincgncc
+Get it here: Chrome extension link
 
-Official website: https://bionify.xyz
+Official website: https://bionicreader.netlify.app -->
 
 ## Development
 
@@ -28,7 +27,7 @@ First, clone the repository
 git clone https://github.com/cveinnt/bionify.git
 ```
 
-Thenm, follow [this instruction](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) to develop unpacked extensions in Chrome.
+Then, follow [this instruction](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) to develop unpacked extensions in Chrome.
 
 ## Algorithm Specification
 
@@ -85,4 +84,4 @@ For example, here we highlight the first 40% characters of words with 5 or more 
 
 ## Credit
 
-Bionify is a published fork of [fastread](https://github.com/ahrm/chrome-fastread).
+Bionic Reader is a modified fork of Bionify.
