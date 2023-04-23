@@ -1,7 +1,7 @@
 # [Bionic Reader - Read Faster!](https://bionicreader.netlify.app)
 
 
-[![banner](src/icons/marquee.png)](https://chrome.google.com/webstore/detail/bionify-read-faster-with/gomhfpbcjfidhpffhecghfdieincgncc)
+<!-- [![banner](src/icons/marquee.png)](https://chrome.google.com/webstore/detail/bionify-read-faster-with/gomhfpbcjfidhpffhecghfdieincgncc) -->
 
 A simple chrome extension designed to help you read faster and more efficiently.
 
