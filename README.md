@@ -24,7 +24,7 @@ Official website: https://bionicreader.netlify.app -->
 First, clone the repository
 
 ```
-git clone https://github.com/cveinnt/bionify.git
+git clone https://github.com/rahulkarda/bionic-reader.git
 ```
 
 Then, follow [this instruction](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) to develop unpacked extensions in Chrome.
